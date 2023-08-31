@@ -5,42 +5,31 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="69b85d37-db04-4e36-afe6-1fd2a3dd51d4" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/aws.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/transactional-stream-processing-kafka.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/order-servic-models/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/order-servic-models/.idea/aws.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/order-servic-models/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/order-servic-models/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/order-servic-models/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/order-servic-models/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/order-servic-models/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/order-servic-models/src/main/java/com/javapoc/orderservicemodels/OrderServiceConstants.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/order-service/order-service.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/order-service/src/main/java/com/javapoc/orderservice/service/OrderManageService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/order-service/src/main/resources/application.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/payment-service/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/payment-service/.mvn/wrapper/maven-wrapper.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/payment-service/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/payment-service/mvnw" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/payment-service/mvnw.cmd" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/payment-service/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/payment-service/src/main/java/com/javapoc/paymentservice/PaymentServiceApplication.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/payment-service/src/main/resources/application.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/payment-service/src/test/java/com/javapoc/paymentservice/PaymentServiceApplicationTests.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/stock-service/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/stock-service/.mvn/wrapper/maven-wrapper.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/stock-service/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/stock-service/mvnw" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/stock-service/mvnw.cmd" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/stock-service/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/stock-service/src/main/java/com/javapoc/stockservice/StockServiceApplication.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/stock-service/src/main/resources/application.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/stock-service/src/test/java/com/javapoc/stockservice/StockServiceApplicationTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/order-servic-models/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/order-servic-models/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/order-servic-models/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/order-servic-models/target/maven-archiver/pom.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/order-servic-models/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/order-servic-models/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/order-servic-models/target/order-service-models-1.0-SNAPSHOT.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/order-servic-models/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/order-servic-models/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/order-servic-models/.idea/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/order-servic-models/.idea/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/order-servic-models/.idea/aws.xml" beforeDir="false" afterPath="$PROJECT_DIR$/order-servic-models/.idea/aws.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/order-servic-models/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/order-servic-models/.idea/encodings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/order-servic-models/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/order-servic-models/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/order-servic-models/.idea/uiDesigner.xml" beforeDir="false" afterPath="$PROJECT_DIR$/order-servic-models/.idea/uiDesigner.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/order-servic-models/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/order-servic-models/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/order-servic-models/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/order-servic-models/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/order-servic-models/src/main/java/com/base/orderservicemodels/Order.java" beforeDir="false" afterPath="$PROJECT_DIR$/payment-service/.mvn/com/javapoc/orderservicemodels/Order.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/order-servic-models/src/main/java/com/base/orderservicemodels/OrderServiceConstants.java" beforeDir="false" afterPath="$PROJECT_DIR$/payment-service/.mvn/com/javapoc/orderservicemodels/OrderServiceConstants.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/order-service/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/order-service/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/payment-service/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/payment-service/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/payment-service/src/main/java/com/javapoc/paymentservice/PaymentServiceApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/payment-service/src/main/java/com/javapoc/paymentservice/PaymentServiceApplication.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/stock-service/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/stock-service/pom.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -64,35 +53,29 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "main",
-    "last_opened_file_path": "/code/learning/java/poc/java-poc-projects/transactional-stream-processing-kafka"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Code/Learning/java-poc-projects/transactional-stream-processing-kafka&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Project&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;
   }
-}]]></component>
-  <component name="RunManager" selected="Maven.whole[clean,install]">
-    <configuration default="true" type="JetRunConfigurationType">
-      <module name="transactional-stream-processing-kafka" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
-      <module name="transactional-stream-processing-kafka" />
-      <option name="filePath" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+}</component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Code\Learning\java-poc-projects\transactional-stream-processing-kafka\payment-service\.mvn" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Maven.order-service [clean,install,-DskipTests]">
     <configuration name=" models[clean,install]" type="MavenRunConfiguration" factoryName="Maven">
       <MavenSettings>
         <option name="myGeneralSettings" />
         <option name="myRunnerSettings" />
         <option name="myRunnerParameters">
           <MavenRunnerParameters>
-            <option name="cmdOptions" />
             <option name="profiles">
               <set />
             </option>
@@ -105,9 +88,6 @@
             <option name="pomFileName" />
             <option name="profilesMap">
               <map />
-            </option>
-            <option name="projectsCmdOptionValues">
-              <list />
             </option>
             <option name="resolveToWorkspace" value="false" />
             <option name="workingDirPath" value="$PROJECT_DIR$/order-servic-models" />
@@ -127,7 +107,6 @@
         <option name="myRunnerSettings" />
         <option name="myRunnerParameters">
           <MavenRunnerParameters>
-            <option name="cmdOptions" />
             <option name="profiles">
               <set />
             </option>
@@ -140,9 +119,6 @@
             <option name="pomFileName" />
             <option name="profilesMap">
               <map />
-            </option>
-            <option name="projectsCmdOptionValues">
-              <list />
             </option>
             <option name="resolveToWorkspace" value="false" />
             <option name="workingDirPath" value="$PROJECT_DIR$/stock-service" />
@@ -156,13 +132,12 @@
       </extension>
       <method v="2" />
     </configuration>
-    <configuration name="order-service [clean,install]" type="MavenRunConfiguration" factoryName="Maven" nameIsGenerated="true">
+    <configuration name="order-service [clean,install,-DskipTests]" type="MavenRunConfiguration" factoryName="Maven" nameIsGenerated="true">
       <MavenSettings>
         <option name="myGeneralSettings" />
         <option name="myRunnerSettings" />
         <option name="myRunnerParameters">
           <MavenRunnerParameters>
-            <option name="cmdOptions" />
             <option name="profiles">
               <set />
             </option>
@@ -170,14 +145,12 @@
               <list>
                 <option value="clean" />
                 <option value="install" />
+                <option value="-DskipTests" />
               </list>
             </option>
             <option name="pomFileName" />
             <option name="profilesMap">
               <map />
-            </option>
-            <option name="projectsCmdOptionValues">
-              <list />
             </option>
             <option name="resolveToWorkspace" value="false" />
             <option name="workingDirPath" value="$PROJECT_DIR$/order-service" />
@@ -197,7 +170,6 @@
         <option name="myRunnerSettings" />
         <option name="myRunnerParameters">
           <MavenRunnerParameters>
-            <option name="cmdOptions" />
             <option name="profiles">
               <set />
             </option>
@@ -210,9 +182,6 @@
             <option name="pomFileName" />
             <option name="profilesMap">
               <map />
-            </option>
-            <option name="projectsCmdOptionValues">
-              <list />
             </option>
             <option name="resolveToWorkspace" value="false" />
             <option name="workingDirPath" value="$PROJECT_DIR$/payment-service" />
@@ -232,7 +201,6 @@
         <option name="myRunnerSettings" />
         <option name="myRunnerParameters">
           <MavenRunnerParameters>
-            <option name="cmdOptions" />
             <option name="profiles">
               <set />
             </option>
@@ -240,14 +208,12 @@
               <list>
                 <option value="clean" />
                 <option value="install" />
+                <option value="-DskipTests" />
               </list>
             </option>
             <option name="pomFileName" />
             <option name="profilesMap">
               <map />
-            </option>
-            <option name="projectsCmdOptionValues">
-              <list />
             </option>
             <option name="resolveToWorkspace" value="false" />
             <option name="workingDirPath" value="$PROJECT_DIR$" />
@@ -264,7 +230,7 @@
     <list>
       <item itemvalue="Maven.payment-service [clean,install]" />
       <item itemvalue="Maven.whole[clean,install]" />
-      <item itemvalue="Maven.order-service [clean,install]" />
+      <item itemvalue="Maven.order-service [clean,install,-DskipTests]" />
       <item itemvalue="Maven. stock[clean,install]" />
       <item itemvalue="Maven. models[clean,install]" />
     </list>
@@ -279,5 +245,16 @@
       <updated>1693333665240</updated>
     </task>
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>

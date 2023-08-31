@@ -1,4 +1,4 @@
-package com.base.orderservicemodels;
+package com.javapoc.orderservicemodels;
 
 public class OrderServiceConstants {
     // Kafka Topics
